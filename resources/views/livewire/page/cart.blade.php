@@ -1,4 +1,4 @@
-<div class="py-[50px] h-screen">
+<div class="py-[50px] h-[100vh]">
     @if($orders->isNotEmpty())
         <div class="mt-[20px]">
             <h2 class="text-3xl mb-[10px]">Заказы</h2>
